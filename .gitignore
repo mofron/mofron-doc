@@ -1,0 +1,6 @@
+*.swp
+src/build.sh
+src/node_modules/
+src/package.json
+src/webpack.config.*
+
